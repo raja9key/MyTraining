@@ -1,0 +1,2 @@
+# MyTraining
+core java examples
